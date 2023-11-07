@@ -1,9 +1,10 @@
 import React from "react";
+import Pokedex from "./Pokedex";
 
 function App() {
   return (
     <div className="App">
-      <Pokegame />
+      <Pokedex />
     </div>
   );
 }
